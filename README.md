@@ -1,1 +1,1 @@
-# introduction_to_quantum_mechanics
+# Introduction to Quantum Mechanics
